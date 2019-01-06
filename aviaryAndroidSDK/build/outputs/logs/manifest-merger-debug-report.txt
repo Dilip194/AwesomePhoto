@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:2:1-111:12
+	package
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml
+		INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml
+		INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml
+		INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:13:6-68
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:13:23-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:14:6-82
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:14:23-79
+uses-permission#android.permission.VIBRATE
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:18:6-67
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:18:23-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:22:6-81
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:22:23-78
+uses-permission#com.android.vending.BILLING
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:23:6-68
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:23:23-65
+application
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:25:5-110:19
+activity#com.aviary.android.feather.FeatherActivity
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:30:9-38:60
+	android:screenOrientation
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:36:13-52
+	android:process
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:35:13-41
+	android:hardwareAccelerated
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:34:13-47
+	android:uiOptions
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:38:13-57
+	android:configChanges
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:32:13-74
+	android:theme
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:37:13-47
+	android:finishOnTaskLaunch
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:33:13-46
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:31:13-70
+activity#com.aviary.android.feather.AlertActivity
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:42:9-51:20
+	android:launchMode
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:44:13-42
+	android:noHistory
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:45:13-37
+	android:theme
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:46:13-54
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:43:13-68
+intent-filter#action:name:aviary.intent.action.ALERT+category:name:android.intent.category.DEFAULT
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:47:13-50:29
+action#aviary.intent.action.ALERT
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:48:17-68
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:49:27-73
+provider#com.aviary.android.feather.library.providers.FeatherContentProvider
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:59:9-64:20
+	android:process
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:63:13-41
+	android:authorities
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:62:13-70
+	android:exported
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:60:13-95
+service#com.aviary.android.feather.cds.AviaryCdsService
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:68:3-76:13
+	android:process
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:69:7-35
+	android:exported
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:70:7-69
+intent-filter#action:name:aviary.intent.action.CDS_DOWNLOAD_START+action:name:aviary.intent.action.CDS_RESTORE_USER_ITEMS
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:72:7-75:23
+action#aviary.intent.action.CDS_DOWNLOAD_START
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:73:11-75
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:73:19-73
+action#aviary.intent.action.CDS_RESTORE_USER_ITEMS
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:74:11-79
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:74:19-77
+provider#com.aviary.android.feather.cds.AviaryCdsProvider
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:84:9-89:39
+	android:process
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:87:13-41
+	android:authorities
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:86:13-74
+	android:syncable
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:89:13-36
+	android:exported
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:88:13-37
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:85:13-76
+receiver#com.aviary.android.feather.cds.AviaryCdsReceiver
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:93:9-99:20
+	android:process
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:95:13-41
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:94:13-76
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:96:13-98:29
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:97:25-79
+meta-data#com.aviary.android.feather.v1.API_KEY
+ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:107:3-109:61
+	android:value
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:109:10-58
+	android:name
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml:108:10-62
+uses-sdk
+INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml
+INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml
+INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml
+INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml
+		INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml
+		ADDED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml
+		INJECTED from D:\personal_project\AwesomePhoto\aviaryAndroidSDK\src\main\AndroidManifest.xml

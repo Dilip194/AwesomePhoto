@@ -1,0 +1,38 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        minSdkVersion 16
+        targetSdkVersion 28
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:support-v4:28.0.0'
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation files('libs/abtest.jar')
+    implementation files('libs/annotations-10.0.2.jar')
+    implementation files('libs/aviary-cds-library.jar')
+    implementation files('libs/aviary-common-library.jar')
+    implementation files('libs/aviary-headless-library.jar')
+    implementation files('libs/aviary-receipt-library.jar')
+    implementation files('libs/aviary-sdk-library.jar')
+    implementation files('libs/aviary-tracking.jar')
+    implementation files('libs/horizontallistview.jar')
+    implementation files('libs/imageviewtouch.jar')
+    implementation files('libs/listviewanimations.jar')
+    implementation files('libs/nineoldandroids-2.4.0.jar')
+    implementation files('libs/okhttp-1.2.1-jar-with-dependencies.jar')
+    implementation files('libs/picasso.jar')
+    implementation files('libs/stickylistheaders_lib.jar')
+}
